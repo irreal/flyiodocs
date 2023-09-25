@@ -1,8 +1,6 @@
 ---
-title: Connect to an App Service
-layout: docs
-sitemap: false
-nav: firecracker
+title: Amazon Web Services
+layout: navigable_docs
 ---
 
 There are two basic ways to talk to a process running in your Fly.io VM: 
